@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Hernane Tavares
 - 👀 I’m interested in learning new Dev Tools e Languages
-- 🌱 I’m currently learning cloud
+- 🌱 I’m currently learning front-end languages
 
 
 <!---
