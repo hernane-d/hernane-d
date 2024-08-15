@@ -12,7 +12,7 @@
 
 # Objetivo atual
 
-  Tenho me dedicado a me desenvolver em novas técnologias para agregar conhecimento e me permitir efetuar uma transição de carreira de um profissional Mainfraime para um profissional conhecedor de linguagens mais modernas de desenvolvimento para Front-end, Back-end e a conexão dessas linguagens com cloud. O meu objetivo é seguir como um Analista com foco em atender a necessidade do cliente e propor soluções em cloud.
+  Tenho me dedicado a me desenvolver em novas tecnologias para agregar conhecimento e me permitir efetuar uma transição de carreira de um profissional Mainfraime para um profissional conhecedor de linguagens mais modernas de desenvolvimento para Front-end, Back-end e a conexão dessas linguagens com cloud. O meu objetivo é seguir como um Analista com foco em atender a necessidade do cliente e propor soluções em cloud.
 
 
   
