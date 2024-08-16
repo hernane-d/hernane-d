@@ -15,7 +15,7 @@
   Estou fazendo cursos para me desenvolver em novas tecnologias para uma transição de carreira de um profissional Mainfraime para um profissional especialista em cloud. Pretendo me aprofundar em linguagens mais modernas de desenvolvimento para Front-end, Back-end, IA e a conexão dessas linguagens com cloud. O meu objetivo é seguir como um Analista com foco em atender a necessidade do cliente e propor soluções em cloud.
 
 
-#Futuros Projetos
+# Futuros Projetos
   Finalizar o curso de front-end na EBAC e publicar os projetos previstos no curso e criar projetos próprios.
   Fazer o curso de Java para backend e me especializar também no backend. Publicar os projetos do curso e criar meus próprios.
   
