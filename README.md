@@ -16,7 +16,7 @@
 
 
 # Futuros Projetos
-  Finalizar o curso de front-end na EBAC e publicar os projetos previstos no curso e criar projetos próprios.
-  Fazer o curso de Java para backend e me especializar também no backend. Publicar os projetos do curso e criar meus próprios.
+  Finalizar o curso de front-end na EBAC, publicar os projetos previstos no curso e criar projetos próprios.
+  Fazer o curso de Java para backend e me especializar também em cloud. 
   
 
